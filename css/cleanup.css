@@ -16,3 +16,10 @@
   display: none;
 }
 
+/* child combiner */
+/* selects the child div of .parent */
+#wall .parent > div #tag-6 {
+  display: none;
+  
+  
+}
